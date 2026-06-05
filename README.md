@@ -2,6 +2,9 @@
 
 ## 🚀 Live Demo
 
+## Interface
+<img src ="https://github.com/dev-purushottam-tiwari/Attendly/blob/main/frontend/src/components/attendance.jpeg">
+
 **Website:** https://attendly-alpha.vercel.app/
 
 ## 📌 Overview
